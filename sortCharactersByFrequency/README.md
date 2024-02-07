@@ -1,5 +1,5 @@
 <aside>
-💡 ***Sort Characters By Frequency***
+💡 Sort Characters By Frequency
 
 </aside>
 
@@ -7,7 +7,7 @@
 > 
 
 <aside>
-💡 ***Exercise Description***
+💡 Exercise Description
 
 </aside>
 
@@ -15,7 +15,7 @@
 > 
 
 <aside>
-💡 ***Exemple***
+💡 Exemple
 
 </aside>
 
