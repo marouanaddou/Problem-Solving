@@ -1,4 +1,4 @@
-<aside>
+<aside style="text-align: left;">
 💡 Sort Characters By Frequency
 
 </aside>
