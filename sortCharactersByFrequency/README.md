@@ -1,7 +1,7 @@
-<aside style="text-align: left;">
+<h1 align="left">
 💡 Sort Characters By Frequency
 
-</aside>
+</h1>
 
 > This repository contains a C++ solution for the "Sort Characters By Frequency" problem. The main objective of this exercise is to sort the characters in a given string based on their frequencies, from highest to lowest frequency. The solution involves manipulating strings and working with data structures such as maps and vectors.
 > 
