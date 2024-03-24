@@ -12,16 +12,20 @@ struct ListNode* mergeInBetween(struct ListNode* list1, int a, int b, struct Lis
     struct ListNode* start = list1;
     struct ListNode* end = list1;
     struct ListNode* tmp;
-    for (int i = 0; i <= b ; i++)
+    int i = 0;
+    for (;i + 1 < a; i++)
     {
-        if ( a > 0 && i + 1 < a )
-        {
-            start = start->next;
-            end = end->next;
-        }
-        else
-            end = end->next;
+        start = start->next;
+        end = end->next;
     }
+    end = end->next;
+    for (;i < b ; i++)
+    {
+        tmp =  end;
+        end = end->next;
+        free(tmp);
+    }
+
     start->next = list2;
     for (;list2 != NULL && list2->next != NULL;)
     {
@@ -30,6 +34,7 @@ struct ListNode* mergeInBetween(struct ListNode* list1, int a, int b, struct Lis
     list2->next = end;
     return list1;
 }
+
 
 
 
