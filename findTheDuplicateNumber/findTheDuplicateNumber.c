@@ -1,5 +1,6 @@
 
 # include <stdio.h>
+# include <stdlib.h>
 
 int findDuplicate(int* nums, int numsSize) 
 {
@@ -14,10 +15,10 @@ int findDuplicate(int* nums, int numsSize)
 
 /********************** TEST ***********************/
 
-// int main()
-// {
-//     int arr[] = {1,2,3,4,2};
-//     printf ("%d\n", findDuplicate(arr, 5));
-// }
+int main()
+{
+    int arr[] = {1,2,3,4,2};
+    printf ("%d\n", findDuplicate(arr, 5));
+}
 
 /********************** TEST ***********************/
