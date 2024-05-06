@@ -11,7 +11,9 @@ Example 1:
 ![drawio](https://github.com/marouanaddou/Problem-Solving/assets/105064179/a0417dc3-6b90-4998-a1de-99aa61cc0f1b)
 
 Input: head = [5,2,13,3,8]
+
 Output: [13,8]
+
 Explanation: The nodes that should be removed are 5, 2 and 3.
 - Node 13 is to the right of node 5.
 - Node 13 is to the right of node 2.
@@ -20,7 +22,9 @@ Explanation: The nodes that should be removed are 5, 2 and 3.
 Example 2:
 
 Input: head = [1,1,1,1]
+
 Output: [1,1,1,1]
+
 Explanation: Every node has value 1, so no nodes are removed.
 
  
