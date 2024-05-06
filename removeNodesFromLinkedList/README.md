@@ -7,6 +7,7 @@ Return the head of the modified linked list.
  
 
 Example 1:
+
 ![drawio](https://github.com/marouanaddou/Problem-Solving/assets/105064179/a0417dc3-6b90-4998-a1de-99aa61cc0f1b)
 
 Input: head = [5,2,13,3,8]
