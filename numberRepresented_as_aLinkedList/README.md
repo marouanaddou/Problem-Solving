@@ -16,6 +16,8 @@ Explanation: The figure above corresponds to the given linked list which represe
 
 Example 2:
 
+![example2](https://github.com/marouanaddou/Problem-Solving/assets/105064179/b75822fa-9403-4230-9b62-f36430105130)
+
 Input: head = [9,9,9]
 Output: [1,9,9,8]
 Explanation: The figure above corresponds to the given linked list which represents the number 999. Hence, the returned linked list reprersents the number 999 * 2 = 1998. 
