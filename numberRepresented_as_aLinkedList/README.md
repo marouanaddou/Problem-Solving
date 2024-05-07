@@ -6,6 +6,7 @@ Return the head of the linked list after doubling it.
 
 
 Example 1:
+
 ![example](https://github.com/marouanaddou/Problem-Solving/assets/105064179/3dac4d95-666c-4a9b-acb3-32b4b859540d)
 
 
