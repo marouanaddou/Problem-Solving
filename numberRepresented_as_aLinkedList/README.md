@@ -6,7 +6,8 @@ Return the head of the linked list after doubling it.
 
 
 Example 1:
-https://assets.leetcode.com/uploads/2023/05/28/example.png
+![example](https://github.com/marouanaddou/Problem-Solving/assets/105064179/3dac4d95-666c-4a9b-acb3-32b4b859540d)
+
 
 Input: head = [1,8,9]
 Output: [3,7,8]
