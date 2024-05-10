@@ -24,7 +24,6 @@ Output: [1,7]
  
 
 Constraints:
-
     2 <= arr.length <= 1000
     1 <= arr[i] <= 3 * 104
     arr[0] == 1
