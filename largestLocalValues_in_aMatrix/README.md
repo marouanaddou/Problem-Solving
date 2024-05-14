@@ -13,16 +13,22 @@ Return the generated matrix.
  
 
 Example 1:
+![ex1](https://github.com/marouanaddou/Problem-Solving/assets/105064179/5702c513-96c9-4c54-a8d7-a72b9e83689b)
 
 Input: grid = [[9,9,8,1],[5,6,2,6],[8,2,6,4],[6,2,2,2]]
+
 Output: [[9,9],[8,6]]
+
 Explanation: The diagram above shows the original matrix and the generated matrix.
 Notice that each value in the generated matrix corresponds to the largest value of a contiguous 3 x 3 matrix in grid.
 
 Example 2:
+![ex2new2](https://github.com/marouanaddou/Problem-Solving/assets/105064179/25b0ddab-f01c-41e4-9ac2-0ef8f3419dc1)
 
 Input: grid = [[1,1,1,1,1],[1,1,1,1,1],[1,1,2,1,1],[1,1,1,1,1],[1,1,1,1,1]]
+
 Output: [[2,2,2],[2,2,2],[2,2,2]]
+
 Explanation: Notice that the 2 is contained within every contiguous 3 x 3 matrix in grid.
 
  
