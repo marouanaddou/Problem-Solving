@@ -12,13 +12,18 @@ Return the highest possible score after making any number of moves (including ze
 
 Example 1:
 
+![lc-toogle1](https://github.com/marouanaddou/Problem-Solving/assets/105064179/aedf4dfd-c9b6-41ea-9eef-4d686f981827)
+
 Input: grid = [[0,0,1,1],[1,0,1,0],[1,1,0,0]]
+
 Output: 39
+
 Explanation: 0b1111 + 0b1001 + 0b1111 = 15 + 9 + 15 = 39
 
 Example 2:
 
 Input: grid = [[0]]
+
 Output: 1
 
  
