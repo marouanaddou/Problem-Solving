@@ -19,7 +19,8 @@ Note: The positions may be unsorted.
  
 
 Example 1:
-image-20230516011718-12.png
+![Uploading image.png…]()
+
 Input: positions = [5,4,3,2,1], healths = [2,17,9,15,10], directions = "RRRRR"
 
 Output: [2,17,9,15,10]
