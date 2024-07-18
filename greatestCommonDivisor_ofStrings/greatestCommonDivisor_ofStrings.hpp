@@ -1,6 +1,6 @@
 
-#pragma one
-# include "iostream"
+# pragma one
+# include <iostream>
 using namespace std;
 
 class Solution 
