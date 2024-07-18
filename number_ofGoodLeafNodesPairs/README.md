@@ -7,6 +7,7 @@ Return the number of good leaf node pairs in the tree.
  
 
 Example 1:
+![1](https://github.com/user-attachments/assets/7acd0fa8-add8-44f6-8fe5-246f95a108cf)
 
 Input: root = [1,2,3,null,4], distance = 3
 
