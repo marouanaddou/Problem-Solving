@@ -8,7 +8,8 @@ Return the number of good leaf node pairs in the tree.
 
 Example 1:
 
-![1](https://github.com/user-attachments/assets/7acd0fa8-add8-44f6-8fe5-246f95a108cf).
+![1](https://github.com/user-attachments/assets/7acd0fa8-add8-44f6-8fe5-246f95a108cf)
+
 Input: root = [1,2,3,null,4], distance = 3
 
 Output: 1
@@ -17,7 +18,8 @@ Explanation: The leaf nodes of the tree are 3 and 4 and the length of the shorte
 
 Example 2:
 
-![2](https://github.com/user-attachments/assets/e214d8d2-5424-4913-94ce-8487ef48c860).
+![2](https://github.com/user-attachments/assets/e214d8d2-5424-4913-94ce-8487ef48c860)
+
 Input: root = [1,2,3,4,5,6,7], distance = 3
 
 Output: 2
