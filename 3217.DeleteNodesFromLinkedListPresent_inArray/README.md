@@ -25,6 +25,8 @@ Output: [2,2,2]
 
 Explanation:
 
+![linkedlistexample1](https://github.com/user-attachments/assets/a1384ed4-7383-45f3-beaf-4f524b1e1b62)
+
 Remove the nodes with value 1.
 
 Example 3:
