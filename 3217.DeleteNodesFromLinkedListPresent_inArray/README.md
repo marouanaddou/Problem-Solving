@@ -15,6 +15,8 @@ Output: [4,5]
 
 Explanation:
 
+![linkedlistexample0](https://github.com/user-attachments/assets/1bd4e3fd-491b-4d94-8008-7819f95944c1)
+
 Remove the nodes with values 1, 2, and 3.
 
 Example 2:
