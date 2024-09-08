@@ -9,6 +9,7 @@ Return an array of the k parts.
  
 
 Example 1:
+
 ![split1-lc](https://github.com/user-attachments/assets/83ee4794-0a55-445f-9108-19d1af295e31)
 
 Input: head = [1,2,3], k = 5
